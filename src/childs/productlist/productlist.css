@@ -1,0 +1,10 @@
+li{
+    list-style:none ;
+    padding-bottom: 5px 0px;
+
+}
+li span{
+    padding: 5px 10px;
+    font-size: bold;
+    color:black;
+}
